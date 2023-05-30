@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Elhaam</h1>
 <h3 align="center">Full Stack Web Developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [ERPnext](https://www.basmaemaargroup.com/Login.aspx?ReturnUrl=%2fTransport%2fVoucher.aspx)
+- 🔭 I’m currently working on ERPNext and MERN.
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next**
 
 - 👨‍💻 All of my projects are available at [https://elhaam.netlify.app/](https://elhaam.netlify.app/)
 
-- 💬 Ask me about **Express, Tailwind and MongoDB**
+- 💬 Ask me about **MERN and Tailwind**
 
 - 📫 How to reach me **e4elhaam@gmail.com**
 
