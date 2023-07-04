@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on ERPNext and MERN.
 
-- 🌱 I’m currently learning **Next**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://elhaam.netlify.app/](https://elhaam.netlify.app/)
 
 - 💬 Ask me about **MERN and Tailwind**
 
-- 📫 How to reach me **e4elhaam@gmail.com**
+- 📫 How to reach me **e4elhaam@outlook.com**
 
 - 📄 Know about my experiences - [My Resume](https://drive.google.com/file/d/1zGwfCWp0L3ddYgp6rafjcv00MG5pC9OZ/view?usp=sharing)
 
@@ -19,8 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/centered_div" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="centered_div" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/elhaam-basheer-chaudhry-594135212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elhaam-basheer-chaudhry-594135212/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@e4elhaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@e4elhaam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/e4elhaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="e4elhaam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
