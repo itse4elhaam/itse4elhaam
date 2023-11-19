@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elhaam</h1>
-<h3 align="center">Full Stack Web Developer from Pakistan</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Next.js & PHP<br><br>🌱 I’m currently learning React Native<br><br>👨‍💻 All of my projects are available at https://elhaam.netlify.app/<br><br>💬 Ask me about MERN and Tailwind<br><br>📫 Mail me: e4elhaam@outlook.com<br><br>⚡ Fun fact: I love the async nature of JavaScript.
