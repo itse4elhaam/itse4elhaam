@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Next.js & PHP<br><br>🌱 I’m currently learning Web Sockets<br><br>👨‍💻 All of my projects are available at https://elhaam.netlify.app/<br><br>💬 Ask me about MERN and Tailwind<br><br>📫 Mail me: e4elhaam@outlook.com<br><br>⚡ Fun fact: I love the async nature of JavaScript.
+🔭 I’m currently working on Next.js<br><br>🌱 I’m currently learning RTC<br><br>👨‍💻 All of my projects are available at https://elhaam.netlify.app/<br><br>💬 Ask me about MERN and Tailwind<br><br>📫 Mail me: e4elhaam@outlook.com<br><br>⚡ Fun fact: I love the async nature of JavaScript.
 
 
 ## 🌐 Socials:
