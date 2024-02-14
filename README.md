@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Next.js & GraphQL<br><br>🌱 I’m currently learning low-level systems<br><br>👨‍💻 All of my projects are available at https://elhaam.netlify.app/<br><br>💬 Ask me about TypeScript and Tailwind<br><br>📫 Mail me: e4elhaam@outlook.com<br><br>⚡ Fun fact: I love the async nature of JavaScript.
+🔭 I’m currently working on TypeScript & PostgreSQL - postgis<br><br>🌱 I’m currently learning low-level systems<br><br>👨‍💻 Scaling truedevs.tech/<br><br>💬 Ask me about TypeScript and Tailwind<br><br>📫 Mail me: e4elhaam@outlook.com<br><br>⚡ Fun fact: I love the async nature of JavaScript.
 
 
 ## 🌐 Socials:
