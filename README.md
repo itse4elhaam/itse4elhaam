@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 # About Me:
-🔭 I’m currently leading a high velocity team - postgis<br><br>🌱 I’m currently learning low-level systems<br><br>👨‍💻 Scaling truedevs.tech <br><br>💬 Ask me about Coding, systems and Neovim<br><br>📫 Mail me: e4elhaam@gmail.com<br><br>⚡ Fun fact: I love low level coding
+🔭 I’m currently leading a high velocity team<br><br>🌱 I’m currently learning low-level systems<br><br>👨‍💻 Scaling truedevs.tech <br><br>💬 Ask me about Coding, systems and Neovim<br><br>📫 Mail me: e4elhaam@gmail.com<br><br>⚡ Fun fact: I love low level coding
 
 
 ## 🌐 Socials:
